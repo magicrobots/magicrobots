@@ -1,10 +1,7 @@
-# Welcome!
+# Nerdy stuff goes here
 
- - I'm a father / nerd / donut enthusiast
- - I'm currently working on translating my main site from Ember to React.
- - Also trying to get comfortable in VIM.
- - Got a GraphQL project in the works, currently in its infancy.
-
+ - Inputs: Coffee, Donuts, Nachos, BBQ, Cheeseburgers, Music
+ - Outputs: Smiles
 <!--
 **magicrobots/magicrobots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
