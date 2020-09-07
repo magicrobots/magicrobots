@@ -1,4 +1,4 @@
-# H1 Welcome!
+# Welcome!
 
  - I'm a father / nerd / donut enthusiast
  - I'm currently working on translating my main site from Ember to React.
